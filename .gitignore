@@ -31,3 +31,6 @@ reports/render/
 reports/*.py
 reports/*.cjs
 reports/*.zip
+
+# Temporary Microsoft Office files
+~$*
