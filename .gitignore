@@ -34,3 +34,10 @@ reports/*.zip
 
 # Temporary Microsoft Office files
 ~$*
+
+# Local documents and unused starter assets
+/README.md
+/reports/
+/src/assets/
+/public/favicon.svg
+/public/icons.svg
